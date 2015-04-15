@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
+
+require 'wnp_age_2'
+d1 = Date.today
+d2 = D
+puts(d)

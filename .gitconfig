@@ -1,0 +1,11 @@
+[color]
+	ui = auto
+[push]
+	default = simple
+[core]
+	editor = emacs
+	autocrl = input
+
+[user]
+	email = a1408nw@aiit.ca.jp
+	name = Ounennhei
